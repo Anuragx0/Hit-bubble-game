@@ -149,7 +149,7 @@ width: 100%;
     border-bottom-right-radius: 10px;
     padding: 10px 10px;
     display: flex;
-    font: 1vw;
+    font: 10px;
     gap: 10px;
     flex-wrap: wrap;
 }
