@@ -10,7 +10,7 @@ width: 100%;
 #main{
     height: 100%;
     width: 100%;
-    background-color: burlywood;
+    background-color: #cc877c;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,7 +25,8 @@ width: 100%;
 #ptop{
     height: 5vw;
     width: 100%;
-    background-color: black;
+    background-color: 
+    #b17369;
     color: #fff;
     display: flex;
     align-items: center;
@@ -45,7 +46,7 @@ width: 100%;
 .box{
     height: 25px;
     width: 40px;
-    color: #000;
+    color: #634540;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -64,14 +65,16 @@ width: 100%;
     justify-content: center;
     align-items: center;
     gap: 10px;
+    color: #634540;
     flex-wrap: wrap;
-    font-size: 10px;
+    font-size: 5vw;
     font-weight: 800;
 }
 .bubble{
     height: 50px;
     width: 50px;
-    background-color: black;
+    background-color: 
+    #cc877c;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -82,7 +85,7 @@ width: 100%;
 
 }
 .bubble:hover{
-    background-color: rgb(19, 18, 18);
+    background-color: #b17369;
     cursor: pointer;
 }
 
